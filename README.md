@@ -1,6 +1,6 @@
 # Zapic Support
 
-This repository tracks bugs and feature requests for [Zapic's](https://www.zapic.com) social gaming platform.
+This repository tracks bugs and feature requests for [Zapic's](https://www.zapic.com) social gaming platform. This includes issues related to all SDKs and the core platform.
 
 ### I don't want to read this whole thing I just have a question!!!
 

@@ -4,9 +4,9 @@ This repository tracks bugs and feature requests for [Zapic's](https://www.zapic
 
 ## I don't want to read this whole thing I just have a question!!!
 
-> **Note:** Please don't file an issue to ask a question. You'll get faster results by using the resources below.
+> **Note:** Please don't file an issue to ask a question. You'll get faster results by chatting with the community.
 
-We have an official discord server where the Zapic team and the community of developers can answer you questions.
+We have an official discord server where the Zapic team and the community of developers can answer your questions.
 
 * [Zapic Discord](https://discord.gg/Kduh53S)
 
